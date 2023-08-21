@@ -8,6 +8,7 @@ See Live: https://codepen.io/JavaScriptJunkie/pen/YzzNGeR
 ![](demo.gif)
 
 
+
 ## Project setup
 ```
 npm install
