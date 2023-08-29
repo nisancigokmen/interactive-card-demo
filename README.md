@@ -5,7 +5,6 @@ A fantastic credit card form with smooth and sweet micro-interactions. Includes 
 See Live: https://codepen.io/JavaScriptJunkie/pen/YzzNGeR
 
 
-
 ![](demo.gif)
 
 
